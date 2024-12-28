@@ -7,21 +7,16 @@ This repository contains educational materials designed for teaching foundationa
 ### 1. The Hydrogen Atom
 - **Description**: Explores the quantum mechanical model of the hydrogen atom, including wavefunctions, energy levels, and the significance of quantum numbers.
 - **Included Files**:
-  - ZIP file: `The_Hydrogen_Atom.zip`
-  - PDF file: `The_Hydrogen_Atom.pdf`
+  - ZIP, PDF, Abstract
     
 ### 2. Photoelectric Effect
 - **Description**: Demonstrates the fundamental principles of the photoelectric effect, highlighting the interaction between light and matter and the concept of photons.
 - **Included Files**:
-  - ZIP file: `Photoelectric_Effect.zip`
-  - PDF file: `Photoelectric_Effect.pdf`
-    
+  - ZIP, PDF, Abstract
 ### 3. Hydrostatic Pressure in Liquids
 - **Description**: Covers the concept of hydrostatic pressure, its derivation, and applications in real-world scenarios like fluid mechanics and engineering.
 - **Included Files**:
-  - ZIP file: `Hydrostatic_Pressure_in_Liquids.zip`
-  - PDF file: `Hydrostatic_Pressure_in_Liquids.pdf`
-    
+ - ZIP, PDF, Abstract
 
 ## Usage
 - The materials in this repository are intended for educational purposes.
